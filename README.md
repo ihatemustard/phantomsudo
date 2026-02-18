@@ -1,3 +1,5 @@
+[![IDC License](https://img.shields.io/badge/License-IDC-blue.svg)](LICENSE)
+
 # phantomsudo
 
 A minimalist compatibility shim for FreeBSD that transparently routes `sudo` calls to `doas`.
